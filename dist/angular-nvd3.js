@@ -139,6 +139,8 @@
                                         'y3Axis',
                                         'y4Axis',
                                         'yAxis',
+                                        'yAboveAxis',
+                                        'yBelowAxis',
                                         'yAxis1',
                                         'yAxis2'
                                     ].indexOf(key) >= 0 ||
